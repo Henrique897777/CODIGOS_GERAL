@@ -1,0 +1,36 @@
+[33mcommit d769f4b77292721d6232c808a3f761eba4799947[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: Gabriel Henrique Machado Pereira <gabriel.mpereira@dinfor.uniceub>
+Date:   Fri Aug 14 09:55:02 2026 -0300
+
+    incluindo pasta
+
+[33mcommit 9f1859f3af8e5110e669e0197415378683d0881e[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Gabriel Henrique Machado Pereira <gabriel.mpereira@dinfor.uniceub>
+Date:   Fri Aug 14 09:39:33 2026 -0300
+
+    salvando arquivos
+
+[33mcommit d84c281ddc7aabfcf4df61d47b982e8b2a212f33[m
+Merge: 1389623 6919057
+Author: unknown <gh972027@gmail.com>
+Date:   Thu Aug 13 19:41:16 2026 -0300
+
+    Merge branch 'teste'
+
+[33mcommit 69190572df8bb489cd218dc1f4c02e99c4203611[m
+Author: unknown <gh972027@gmail.com>
+Date:   Thu Aug 13 19:39:33 2026 -0300
+
+    alternado arquivo 4
+
+[33mcommit 13896232cd945fcc718e5fd8e00c4c80cfe96d8d[m
+Author: unknown <gh972027@gmail.com>
+Date:   Thu Aug 13 19:23:33 2026 -0300
+
+    colocando arquivos na pasta frontend
+
+[33mcommit ab3080d4884f71111004d6ac6dea125ac4071bf6[m
+Author: unknown <gh972027@gmail.com>
+Date:   Thu Aug 13 19:11:09 2026 -0300
+
+    teste de commit
